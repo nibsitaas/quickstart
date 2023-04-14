@@ -14,7 +14,7 @@ name = "Nico Hämäläinen"
 
 [params]
 author = "Nico Hämäläinen"
-description = "."
+description = "Polybloat programmer with a thing for user experience."
 dateFormat = "01-12-2023"
 paginationSinglePost = true
 style = "auto"
@@ -33,32 +33,22 @@ utterancesIssue = "" # optional
 utterancesLabel = "" # optional
 
 [[params.social]]
-id = "docs"
-url = "https://gohugo.io/documentation/"
-
-[[params.social]]
 id = "github"
-url = "https://github.com/mitrichius/hugo-theme-anubis"
+url = "https://github.com/nibsitaas"
 
 [menu]
-
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 1
 
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Archive"
 identifier = "archive"
 url = "/posts/"
-weight = 3
+weight = 2
 
 [taxonomies]
 category = "categories"
