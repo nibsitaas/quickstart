@@ -1,4 +1,4 @@
 baseURL = 'https://nibsi.online/'
 languageCode = 'en-us'
 title = 'nibsi.online'
-theme = 'ananke'
+theme = 'anubis'
